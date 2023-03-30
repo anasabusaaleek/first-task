@@ -1,0 +1,28 @@
+
+
+img{
+    width: 250px;
+    height: 150px;
+   
+
+    
+}
+table
+{border: 1px;
+    border-style: dashed;
+    border: 1px dashed;
+    border-collapse: collapse;
+}
+td
+{border: 1px;
+    border-style: dashed;
+    border: 1px dashed;
+    text-align: center;
+  
+   
+}
+th
+{border: 1px;
+    border-style: dashed;
+    border: 1px dashed;
+}
