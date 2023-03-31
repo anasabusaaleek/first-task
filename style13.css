@@ -1,0 +1,18 @@
+td {
+    border: solid 1px rgb(16, 16, 16);
+  
+
+display: inline-block;
+margin: 2px;
+border-radius: 3px;
+box-shadow: 1px 1px #888888;
+}
+table
+{width: 400px;
+    font-size: 8px;
+
+    padding: 0;
+}
+body{
+    margin: 3px;
+}

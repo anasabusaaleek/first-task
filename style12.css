@@ -1,0 +1,20 @@
+/* 
+
+*/
+div{
+    background-color: #ddd;
+width: 20px;
+height: 20px;
+display: inline-block;
+margin: 0px;
+padding: 0;
+border: 1px solid;
+}
+.green{
+    background-color: green;
+    margin-bottom: 20px;
+   
+}
+.yallow{
+    background-color: yellow;
+}
