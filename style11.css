@@ -2,6 +2,7 @@ h2{
     margin-bottom: 200px;
 }
 label{
+    
     margin: 10px;
 }
 input {
@@ -13,4 +14,16 @@ input {
     width: 350px;
     margin :auto ;
 
+}
+#form2{
+    border :1px solid black;
+    width:  350px;
+    margin: auto;
+    height: 35px;
+}
+form{
+    background-color: beige ;
+}
+.a{
+    margin:auto;
 }
